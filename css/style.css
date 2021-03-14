@@ -1,0 +1,26 @@
+
+.bx{
+    box-shadow: 2px 2px 18px rgba(0,0,0,0.2);
+}
+.card-border{
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    border: 0px;
+}
+
+.search-sec{
+    display: flex;
+    width: 50%;
+}
+.search{
+    height: 80px;
+    border-radius: 10%;
+}
+.search-btn{
+    background-color: green;
+    height: 80px;
+    border-radius: 10%;
+}
+
+body{
+    background-color: #222 ;
+}
