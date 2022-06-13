@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][employee manager.png]](https://my-employees-manager.000webhostapp.com/index.php)
+[![Product Name Screen Shot](/employee manager.png)
 
 
  Fully functioning web app that Supports:
