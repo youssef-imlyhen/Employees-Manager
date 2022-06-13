@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot](/employee manager.png)
+[![Product Name Screen Shot][product-screenshot]](https://my-employees-manager.000webhostapp.com/index.php)
 
 
  Fully functioning web app that Supports:
@@ -137,6 +137,6 @@ Linkedin: [https://linkedin.com/in/youssef-imlyhen](https://linkedin.com/in/yous
 
 
 
-
+[product-screenshot]: images/screenshot.png
 
 
