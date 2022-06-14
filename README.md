@@ -50,6 +50,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://my-employees-manager.000webhostapp.com/index.php)
 
 
+### Main features
  Fully functioning web app that Supports:
  - Registration.
 - Authentication.
