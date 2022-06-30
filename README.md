@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://my-employees-manager.000webhostapp.com/index.php)
+[my employees.webm](https://user-images.githubusercontent.com/71871551/176726012-3c09978f-4cb5-4859-9e7d-c10cabf30849.webm)
 
 
 ### Main features
@@ -67,6 +67,9 @@
 - MySQL
 - PHP 7 
 - Bootsrap 5
+- JavaScript
+- HTML5
+- CSS3
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -78,6 +81,7 @@
 2. clone the repo using `git clone https://github.com/youssef-imlyhen/Employees-Manager.git`
 3. Run these SQL commands or you can create the database and the tables manually using PhpMyAdmin.
 ```sql
+
 /* create the database */
 CREATE DATABASE cruddb;
 /* create users tables */
